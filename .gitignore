@@ -1,3 +1,9 @@
+# avr-gcc
+*.bin
+*.eep
+*.lss
+*.sym
+
 # Prerequisites
 *.d
 
